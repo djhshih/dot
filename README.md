@@ -11,10 +11,11 @@ This repo contains personal configuration files for various tools and environmen
 1. **Clone the repo** to your machine:
    ```bash
    git clone git@github.com:djhshih/dot.git
+   cd dot
    ```
 2. **Run the install script**:
    ```bash
-   bash dot/install.sh
+   bash install.sh
    ```
    This script:
   * Creates symbolic links from the repo to your home directory (~/) for:
